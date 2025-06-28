@@ -14,7 +14,7 @@
 🛠️ &nbsp;Recent projects include an **Inventory Management System** (Java & MySQL) and **SMS Spam Detection** using NLP.\
 ✍️ &nbsp;I also enjoy designing posters, organizing tech events, and mentoring peers during my free time.\
 💬 &nbsp;Feel free to reach out to me for collaboration, volunteering, or just to have an insightful conversation.\
-✉️ &nbsp;Reach me at: vamshivradan1234@gmail.com\
+✉️ &nbsp;Reach me at: vamshivardan1234@gmail.com\
 📄 &nbsp;Check out my [Résumé](https://drive.google.com/file/d/1F9RWo2aGO1Hg7EPAHuEJ0hPsc2lbzqUl/view?usp=drive_link) — feedback is always welcome!
 
 
